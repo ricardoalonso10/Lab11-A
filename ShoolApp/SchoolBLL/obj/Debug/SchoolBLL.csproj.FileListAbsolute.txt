@@ -1,0 +1,13 @@
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\obj\Debug\SchoolBLL.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb

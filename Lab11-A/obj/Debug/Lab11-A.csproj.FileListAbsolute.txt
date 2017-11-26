@@ -1,0 +1,11 @@
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe.config
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\Lab11-A.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\EntityFramework.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\EntityFramework.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\obj\Debug\Lab11-A.exe
+C:\Users\RICARDO ALONSO\Source\Repos\Lab11-A\Lab11-A\obj\Debug\Lab11-A.pdb

@@ -1,0 +1,6 @@
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\obj\Debug\SchoolEntities.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\bin\Debug\SchoolEntities.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\bin\Debug\SchoolEntities.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\obj\Debug\SchoolEntities.dll
+C:\Users\RICARDO ALONSO\Source\Repos\ShoolApp\SchoolEntities\obj\Debug\SchoolEntities.pdb
